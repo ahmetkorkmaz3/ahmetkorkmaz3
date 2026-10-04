@@ -6,7 +6,7 @@ I build web applications, APIs, and developer tools. I studied Software Engineer
 
 Outside of work, I make small open-source tools. Two examples are [contra](https://github.com/ahmetkorkmaz3/contra) and [clipaste](https://github.com/ahmetkorkmaz3/clipaste). Contra merges GitHub and GitLab contribution calendars into one view. Clipaste is a clipboard manager.
 
-**Tech I use:** PHP · Laravel · JavaScript · TypeScript · Node.js · Vue.js · React
+**Tech I use:** JavaScript · TypeScript · Node.js · Next.js · Vue.js · React · PHP · Laravel · Symfony
 
 **Find me on:** [LinkedIn](https://www.linkedin.com/in/muratahmetkorkmaz/) · [X](https://x.com/ahmetmkorkmaz) · [ahmetkorkmaz3.github.io](https://ahmetkorkmaz3.github.io)
 
