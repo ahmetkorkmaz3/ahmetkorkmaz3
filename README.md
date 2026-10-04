@@ -12,7 +12,7 @@ Outside of work, I make small open-source tools. Two examples are [contra](https
 
 ---
 
-<p>
+<!-- <p>
   <img src="https://raw.githubusercontent.com/ahmetkorkmaz3/github-stats/generated/overview.svg" alt="GitHub overview stats" height="160">
   <img src="https://raw.githubusercontent.com/ahmetkorkmaz3/github-stats/generated/languages.svg" alt="Most used languages" height="160">
-</p>
+</p> -->
